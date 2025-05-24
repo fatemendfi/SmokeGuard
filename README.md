@@ -1,5 +1,6 @@
 # SmokeGuard ESP
-
+backend:
+https://github.com/amirhajipoor/fire-detector-backend
 A simple and effective smoke detection system using an **MQ2 gas sensor** and **ESP8266** (NodeMCU). The system continuously monitors the air for smoke or gas presence. If the smoke level exceeds a defined threshold, it triggers an alarm using a **buzzer** and **LED**. When no smoke is detected, the LED blinks periodically to indicate normal operation.
 
 ## 🛠️ Features
